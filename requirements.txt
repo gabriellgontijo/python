@@ -1,0 +1,9 @@
+fastapi>=0.100
+uvicorn>=0.23
+pydantic>=2.0
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+httpx>=0.24
+pytest>=7.0
+requests>=2.28
